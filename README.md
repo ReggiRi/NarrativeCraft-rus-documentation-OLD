@@ -8,7 +8,7 @@
 - **Мультиплеер НЕ поддерживается**
 - Автор переписывает версию 2.0 с нуля
 
-👉 **Если вы хотите следить за новой версией, перейдите в [NarrativeCraft REWRITE RU](ссылка)**
+👉 **Если вы хотите следить за новой версией, перейдите в [NarrativeCraft REWRITE RU](https://github.com/LOUDO56/NarrativeCraft/tree/rerewrite)**
 
 Оригинал: [narrativecraft.loudo.dev](https://narrativecraft.loudo.dev)
 
